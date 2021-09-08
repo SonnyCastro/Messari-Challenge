@@ -6,7 +6,7 @@ Build a React + TypeScript web app using the Messari API to display metrics and 
 
 ## Installation
 
-- `git clone`
+- `git clone https://github.com/SonnyCastro/Messari-Challenge.git`
 - `cd` into `messari-challenge`
 - run `yarn`
 - `yarn start` will open app on localhost
